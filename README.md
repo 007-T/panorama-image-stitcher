@@ -1,5 +1,5 @@
 # panorama-image-stitcher
-### The following is a programing assignment for my intoduction to computer vision class at SFU where I got two stitch pairs of images that I took from the same scene but with a shift in angle or position tgether.
+### The following is a programing assignment for my intoduction to computer vision class at SFU where I got two stitch pairs of images that I took from the same scene but with a shift in angle or position together.
 See the full results at: https://htmlpreview.github.io/?https://github.com/007-T/panorama-image-stitcher/blob/main/hw2template.html
 
 Here is the assignment description for reference.
